@@ -5,8 +5,8 @@
 }
 
 body {
-    /* background-image: url(/assets/img/image_summer.png);*/
     background-image: url("https://github.com/signedavidane/pineapple/blob/main/assets/img/image_summer.png?raw=true");
+    background-color: #F2F5FA;
     background-repeat: no-repeat;
     background-size: 815px;
     background-position-x: right;
@@ -87,9 +87,9 @@ a {
     height: 62px;
     text-indent: 39px;
     width: 635px;
-    border-top: 0.7px grey solid;
-    border-right: 0.7px grey solid;
-    border-bottom: 0.7px grey solid;
+    border-top: 0.3px #E5E5E5 solid;
+    border-right: 0.3px #E5E5E5 solid;
+    border-bottom: 0.3px #E5E5E5 solid;
     border-left: 10px #4788F2 solid;
 }
 
@@ -146,7 +146,7 @@ span {
 hr {
     width: 400px;
     border: 0;
-    border-top: 1.5px solid #eee;
+    border-top: 1.5px solid #BEBEBE;
     margin: auto;
     margin-top: 50px;
 }
