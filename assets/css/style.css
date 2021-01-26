@@ -103,9 +103,9 @@ a {
 button {
     position: relative;
     width: 70px;
-    height: 56px;
-    right: 75px;
-    top: 1px;
+    height: 52px;
+    right: 77px;
+    top: 3px;
     border-style: none;
     background-color: white;
     cursor: pointer;
