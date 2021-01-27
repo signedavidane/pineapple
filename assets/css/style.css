@@ -100,6 +100,14 @@ a {
     font-size: 15px;
 }
 
+#vl {
+    height: 62px;
+    border-left: 10px #4788F2 solid;
+    position: absolute;
+    bottom: 256px;
+    left: 50px;
+}
+
 button {
     position: relative;
     width: 70px;
